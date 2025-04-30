@@ -146,8 +146,9 @@ npm run dev
 
 ---
 
-## 🌐 Live Preview (Optional)
+## 🌐 Preview 
 
-![image](https://github.com/user-attachments/assets/25ae9c42-6bb3-49e2-8fa7-f1b469d93962)
+![9fc3ad33-69d3-494c-a958-bbaffbf92568](https://github.com/user-attachments/assets/0f2362b8-b507-4ac0-83a3-23c08bafa3cd)
+
 ![image](https://github.com/user-attachments/assets/66de570b-95cb-4b26-ba70-2cf1e51e8fb9)
 
